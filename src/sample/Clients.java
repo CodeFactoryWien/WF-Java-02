@@ -38,4 +38,9 @@ public class Clients {
     public Integer getClient_id() {
         return client_id;
     }
+
+    @Override
+    public String toString() {
+        return  getClient_first_name()+" "+getClient_last_name()+" "+"EMAIL:"+" "+getClient_email();
+    }
 }
