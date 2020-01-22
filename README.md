@@ -3,18 +3,18 @@
 
 ## Tools
 
-Project Organisation Tool : [Trello](https://www.trello.com)  
-Graphics : [JavaFX] (https://openjfx.io/)
-Database : [MySQL] (https://www.mysql.com/)
-Visual tool for database : [MySQL Workbench] (https://www.mysql.com/products/workbench/)
-Framework : [Spring] (https://spring.io/)
-IDE : [IntelliJ] (https://www.jetbrains.com/idea/) 
-IDE 2 : [VSCode] (https://code.visualstudio.com/)
-Programming Language : [Java] (https://www.java.com/)
-Programming Language : [Python] (https://www.python.org)
-Testing [Selenium] : (https://www.python.org)
-Version Control : [Git] (https://git-scm.com/)
-Communication : [WhatsApp](https://whatsapp.com)  
+Project Organisation Tool : [Trello](https://www.trello.com)    
+Graphics : [JavaFX] (https://openjfx.io/)  
+Database : [MySQL] (https://www.mysql.com/)  
+Visual tool for database : [MySQL Workbench] (https://www.mysql.com/products/workbench/)  
+Framework : [Spring] (https://spring.io/)  
+IDE : [IntelliJ] (https://www.jetbrains.com/idea/)   
+IDE 2 : [VSCode] (https://code.visualstudio.com/)  
+Programming Language : [Java] (https://www.java.com/)  
+Programming Language : [Python] (https://www.python.org)  
+Testing [Selenium] : (https://www.python.org)  
+Version Control : [Git] (https://git-scm.com/)  
+Communication : [WhatsApp](https://whatsapp.com)    
 
 ## Tasks
 
@@ -39,21 +39,21 @@ Dynamic content : `pages/`
   
 Author : [Mert](https://github.com/mert2000)  
 
-`What?` : Design and graphic components for smooth user experience and informative views
+`What?` : Design and graphic components for smooth user experience and informative views  
 `How?` : Creative usage of tools and resources with team collaboration and community inspiration.
 
 ## Java Component
   
 Author : [Muhammed](https://github.com/muhammedfarman)  
 
-`What?` : Design and populating tables from database
+`What?` : Design and populating tables from database  
 `How?` : Connecting javafx UI with the data base with the correrct queries and joins. 
 
 ## HTML component
 Path : `pages/news`
 Author : [Laszlo](https://github.com/voidlaszlo)  
 
-`What?` : Web page design and database communication including Spring 5 
+`What?` : Web page design and database communication including Spring 5  
 `How?` : Using the mentioned framework for dependecy injections combined with previously learned CSS and HTML skills.
 
 ## Database component
