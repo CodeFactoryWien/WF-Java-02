@@ -4,16 +4,16 @@
 ## Tools
 
 Project Organisation Tool : [Trello](https://www.trello.com)    
-Graphics : [JavaFX] (https://openjfx.io/)  
-Database : [MySQL] (https://www.mysql.com/)  
-Visual tool for database : [MySQL Workbench] (https://www.mysql.com/products/workbench/)  
-Framework : [Spring] (https://spring.io/)  
-IDE : [IntelliJ] (https://www.jetbrains.com/idea/)   
-IDE 2 : [VSCode] (https://code.visualstudio.com/)  
-Programming Language : [Java] (https://www.java.com/)  
-Programming Language : [Python] (https://www.python.org)  
-Testing [Selenium] : (https://www.python.org)  
-Version Control : [Git] (https://git-scm.com/)  
+Graphics : [JavaFX](https://openjfx.io)  
+Database : [MySQL](https://www.mysql.com)  
+Visual tool for database : [MySQL Workbench](https://www.msql.com/products/workbench)  
+Framework : [Spring](https://spring.io)  
+IDE : [IntelliJ](https://www.jetbrains.com/idea)   
+IDE 2 : [VSCode](https://code.visualstudio.com)  
+Programming Language : [Java](https://www.java.com)  
+Programming Language : [Python](https://www.python.org)  
+Testing : [Selenium](https://www.selenium.dev)  
+Version Control : [Git](https://git-scm.com)  
 Communication : [WhatsApp](https://whatsapp.com)    
 
 ## Tasks
