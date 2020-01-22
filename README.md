@@ -18,10 +18,10 @@ Communication : [WhatsApp](https://whatsapp.com)
 
 ## Tasks
 
-Merttemel - Graphics, JAavaFX FrontEnd
-Muhammed - Java, FrontEnd-BackEnd connections
-Laszlo - Spring, HTML FrontEnd Design
-Tamas - Database and testing
+Mert - Graphics, JAavaFX FrontEnd  
+Muhammed - Java, FrontEnd-BackEnd connections  
+Laszlo - Spring, HTML FrontEnd Design  
+Tamas - Database and testing  
 
 We have used Trello for Project Organisation, and Spring as a Framework for dependency injection management.  
 With git we organized the project in a way, that the team members can easiy merge their efforts in a seamless way, maximising efficency.
