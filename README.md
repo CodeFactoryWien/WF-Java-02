@@ -18,7 +18,7 @@ Communication : [WhatsApp](https://whatsapp.com)
 
 ## Tasks
 
-Mert - Graphics, JAavaFX FrontEnd  
+Mert - Graphics, JavaFX FrontEnd  
 Muhammed - Java, FrontEnd-BackEnd connections  
 Laszlo - Spring, HTML FrontEnd Design  
 Tamas - Database and testing  
