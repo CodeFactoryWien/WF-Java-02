@@ -49,7 +49,7 @@ Author : [Muhammed](https://github.com/muhammedfarman)
 `What?` : Design and populating tables from database  
 `How?` : Connecting javafx UI with the data base with the correrct queries and joins. 
 
-## HTML component
+## Spring component
 Path : `pages/news`
 Author : [Laszlo](https://github.com/voidlaszlo)  
 
